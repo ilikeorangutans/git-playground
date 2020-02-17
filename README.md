@@ -1,3 +1,5 @@
 # Git Playground
 
-This is just playing with git.
+This is just learning with git.
+
+This is fun! yay!
